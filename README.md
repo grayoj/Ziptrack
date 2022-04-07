@@ -12,4 +12,4 @@ Map APIs, Firebase and several other tools which are necessary for the developme
  5. Firebase
  6. Google Map Api
  
- ## Still in Development....
+
